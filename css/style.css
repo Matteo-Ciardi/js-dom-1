@@ -24,8 +24,12 @@ body {
     margin-left: 38px;
 }
 
+.on-lamp {
+    display: none;
+}
+
 /* Bottone */
-.myButton {
+.my-button {
     padding: 10px 20px;
     font-size: 1.5rem;
 }
