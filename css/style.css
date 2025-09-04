@@ -21,15 +21,19 @@ body {
 
 /* Immagine */
 .img-box {
-    margin-left: 38px;
+    margin-left: 40px;
 }
 
 .on-lamp {
     display: none;
+    margin-right: 82px;
 }
 
 /* Bottone */
 .my-button {
+    width: 140px;
+    height: 50px;
     padding: 10px 20px;
     font-size: 1.5rem;
+    line-height: 0;
 }
