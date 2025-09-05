@@ -23,6 +23,8 @@ myButton.addEventListener('click', lampOn);
 //     lampAccesa = !lampAccesa;
 // }
 
+
+// METODO VISTO DURANTE LA CORREZIONE 
 function lampOn() {
     if (myLampOff.src.includes("white_lamp")) {
         myLampOff.src = "img/yellow_lamp.png";
